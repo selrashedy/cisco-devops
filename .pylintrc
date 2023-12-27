@@ -1,0 +1,6 @@
+[MASTER]
+load-plugins=pylint_flask_sqlalchemy, pylint_flask
+
+[DESIGN]
+max-attributes=12
+max-args=12
